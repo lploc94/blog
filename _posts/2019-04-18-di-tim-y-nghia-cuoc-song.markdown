@@ -5,12 +5,15 @@ date:   2019-04-18 16:36:02 +0700
 categories: jekyll update
 ---
 
-#**Đi tìm ý nghĩa cuộc sống**
+**Đi tìm ý nghĩa cuộc sống**
+
 Lúc nhỏ có một thời gian tôi từng rất ám ảnh về cái chết, tôi sợ những người thân biến mất mãi mãi, tôi sợ một ngày nào đó mình cũng sẽ không còn, thời gian rồi vẫn tiếp diễn, vũ trụ vẫn tồn tại, chỉ có con người chúng ta là tạm bợ. Rồi sau vài triệu năm nữa, liêu ai còn biết chúng ta đã từng tồn tại?
 
 Khi suy nghĩ về cái chết, tôi tự hỏi rằng chúng ta xuất hiện để làm gì, chúng ta rồi cũng thành hư vô mà, vậy phải chi chưa từng sinh ra, chưa từng xuất hiện thì có phải đã không phải đau khổ vì biết mình phải chết. Lúc đó, tôi ước mình là một hòn đá, tuy không thể cử động, không thể suy nghĩ, nhưng ít ra tôi có thể tồn tại thật lâu. Vì thế trong thời thơ ấu của tôi luôn tồn tại những câu hỏi đại loại như:
 _Tại sao lại có chúng ta?_
+
 _Chúng ta tồn tại để làm gì?_
+
 _Nếu chúng ta vĩnh viễn biến mất tại sao chúng ta không được vui vẻ hạnh phúc mãi mà phải chịu nhiều đau khổ, đói, nghèo?_
 
 Về quan điểm tôn giáo thì những câu hỏi của tôi điều được trả lời trong Kinh Thánh, và những trăn trở thời thơ ấu của tôi cũng nhờ đó mà nguôi ngoai. Nhưng rõ ràng trong cuộc sống mỗi người, sẽ có một khoảnh khắc mà chúng ta tự đặt nghi vấn về bản chất và ý nghĩa về sự tồn tại của bản thân. và khi chúng ta thất bại trong việc trả lời những câu hỏi đó mọi chuyện sẽ thế nào? Viktor Emil Frankl - một trong những nạn nhân Do Thái từng trải qua 4 trại tập trung tàn khốc của Đức Quốc Xã thời chiến tranh thế giới thứ 2, đã nghiên cứu về vấn đề này và trình bài chi tiết qua cuốn "Đi tìm ý nghĩa cuộc sống" - phiên bản Tiếng Việt. Cuốn sách, theo tôi, là một sách khoa học thường thức nói về một vấn đề khoa học mà qua đó chúng ta hiểu được những khía cạnh trong việc đi tìm ý nghĩa cuộc sống của mỗi người.
@@ -27,6 +30,7 @@ Nói về một cuộc sống có ý nghĩa, cuộc sống mà một người hi
 Ngày nay, trong một xã hội mà các giá trị về vật chất được đề cao, giá trị một con người được người ta đánh giá phần lớn qua độ hữu dụng của họ tại thời điểm xét. Một người nghèo, thu nhập thấp sẽ không được đánh giá cao hơn một người giàu có, một người trẻ tuổi năng động với nhiều kỹ năng sẽ được đánh giá cao hơn một người già yếu đuối, vô hình chung người ta bỏ qua giá trị của người không thành công, không hạnh phúc, điều ngày khiến sự khác biệt giữa giá trị theo phẩm cách và giá trị theo độ hữu dụng bị lu mờ. Bản chất con người là hay đánh giá, phán xét người khác, nhưng nếu chúng ta đặt mình vào trong những ông giáo sư điên, những cô cậu sinh viên tình nguyện ấy, chúng ta chắc hẵn sẽ biết được với họ những việc họ làm không hề vô nghĩa cũng như hiểu được giá trị của họ.
 
 **_Có những người hiểu, nhưng cũng có những người không hiểu tại sao họ tồn tại, chẳng có mục tiêu lý tưởng, những người đó sẽ thế nào? và nó gây ra những vấn đề gì?_**
+
 Để nói về vấn đề này đầu tiên chúng ta nói đến ba cấp độ của sự tồn tại đó là "tồn tại", "ý nghĩa sự tồn tại" và "cố gắng đi tìm ý nghĩa thực sự của sự tồn tại". Khi con người chỉ đạt cấp độ "tồn tại" mà thiếu đi hai cấp độ còn lại là "ý nghĩa sự tồn tại" và "cố gắng đi tìm ý nghĩa thực sự của sự tồn tại" thì họ sẽ rơi vào trạng thái thất vọng về sự tồn tại, điều này có thể dẫn đến rối loạn tâm thần, cũng như những hành động buông xuôi và có xu hướng tự tử. Ở một cấp độ nhẹ hơn, một trong những trạng thái phổ biến xảy ra khi chúng ta không hiểu ý nghĩa tồn tại, không có lý tưởng đó là trạng thái mà con người không còn biết mình phải làm gì, muốn làm những gì người khác muốn làm, làm nghũng gì người khác bảo mình làm - trong liệu pháp ý nghĩa Frankl gọi cảm giác này là cảm giác chân không. Có thể thấy ngày nay, nhiều người trong chúng ta rơi vào trạng thái này, những người có đủ điều kiện sống nhưng lại không có lý do để sống. Hãy nhìn lại câu chuyện của tôi, rõ ràng tôi đã từng trải qua trạng thái tiêu cực này, và nó không hề dễ chịu chút nào, cũng như đã để lại những hậu quả ít nhiều có hại. Mở rộng ra, nói về chuyện giáo dục, tôi đã từng nghe những người bạn than vãn về việc họ bị cha mẹ ép buộc đi học và họ ghét điều đó, nhìn lại có rất nhiều học sinh, sinh viên thời nay không hiểu lý do tại sao họ đi học, không hiểu đi học để làm gì và tại sao họ lại phải chịu đựng những bài kiểm tra khó khăn, những sợ sệt khi lên bảng trả bài hay những công thức toán học rắc rồi. Liêu nền giáo dục của chúng ta đã thiếu một bước cơ bản và đầu tiên đó là cho người trẻ biết lý do vì sao họ cần phải đi học? Việc không hiểu lý do mình đi học, theo tôi có một tác động rất tiêu cực, một thế hệ đi học mà không biết tại sao mình đi học, một thế hệ không thấy mục đích rõ ràng của những gì họ đang chịu đựng, một thế hệ cố gắng đạt điểm chỉ vì cha mẹ họ muốn vậy, một thế hệ dễ dàng quên đi những kiến thức họ đã được trang bị bởi vì họ chẳng có động lực nào để nhớ những thứ đó cả.
 
 **_Cách để tìm thấy ý nghĩa cuộc sống - theo tác giả Frankl_**
