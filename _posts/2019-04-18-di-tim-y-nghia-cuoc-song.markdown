@@ -4,6 +4,8 @@ title:  "Đi tìm ý nghĩa cuộc sống"
 date:   2019-04-18 16:36:02 +0700
 categories: jekyll update
 ---
+
+		#**Đi tìm ý nghĩa cuộc sống**
 Lúc nhỏ có một thời gian tôi từng rất ám ảnh về cái chết, tôi sợ những người thân biến mất mãi mãi, tôi sợ một ngày nào đó mình cũng sẽ không còn, thời gian rồi vẫn tiếp diễn, vũ trụ vẫn tồn tại, chỉ có con người chúng ta là tạm bợ. Rồi sau vài triệu năm nữa, liêu ai còn biết chúng ta đã từng tồn tại?
 
 Khi suy nghĩ về cái chết, tôi tự hỏi rằng chúng ta xuất hiện để làm gì, chúng ta rồi cũng thành hư vô mà, vậy phải chi chưa từng sinh ra, chưa từng xuất hiện thì có phải đã không phải đau khổ vì biết mình phải chết. Lúc đó, tôi ước mình là một hòn đá, tuy không thể cử động, không thể suy nghĩ, nhưng ít ra tôi có thể tồn tại thật lâu. Vì thế trong thời thơ ấu của tôi luôn tồn tại những câu hỏi đại loại như:
