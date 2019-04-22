@@ -16,7 +16,7 @@
 title: "Lê Phước Lộc's Blog"
 email: "lploc@gmail.com"
 description: "Learning from scatch!"
-baseurl: "https://lploc94.github.com" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lploc94.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lploc94
 github_username:  lploc94
