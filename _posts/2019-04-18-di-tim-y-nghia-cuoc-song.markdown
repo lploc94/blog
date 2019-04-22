@@ -40,6 +40,7 @@ Như đã biết, tôi đã từng trải qua cuộc sống trống rỗng, vô 
 
 Pavel trong Thép đã tôi thế đấy của nhà văn Nikolai A.Ostrovsky đã nói
 >"...Cái quý nhất của con người ta là sự sống. Đời người chỉ sống có một lần. Phải sống sao cho khỏi xót xa, ân hận vì những năm tháng đã sống hoài, sống phí, cho khỏi hổ thẹn vì dĩ vãng ti tiện và hèn đớn của mình..."
+
 Thật tình, đây là câu nói mà tôi rất ấn tượng mà tôi phải trích dẫn vào đây trước khi kết thúc, nó nhắc tôi nhớ rằng mình cần phải sống một cuộc đời ý nghĩa để không bao giờ phải hối hận.
 
 Lời kết, hiểu được ý nghĩa của cuộc đời là rất quan trọng đối với mỗi chúng ta, là kim chỉ nam cho cuộc đời và là động lực để ta vượt qua tất cả. hãy sống một cuộc đời trọn vẹn, theo lý tưởng và giá trị mà chúng ta tin tưởng, để khi chúng ta già yếu, nhìn lại có thể thấy tự hào về những chặn đường ta đã đi qua. 
